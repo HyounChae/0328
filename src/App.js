@@ -3,7 +3,7 @@ import styled from "styled-components";
 function App() {
   const onCLickEvent = () => {
     console.log("Clicked!!"); 
-    
+    let num=10;
 
   };
 
